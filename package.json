@@ -1,5 +1,5 @@
 {
-  "name": "@arnaudNYC/fastify-knexjs",
+  "name": "@arnaudnyc/fastify-knexjs",
   "version": "1.0.14",
   "description": "Fastify KnexJS Plugin",
   "main": "index.js",
